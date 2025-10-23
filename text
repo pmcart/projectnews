@@ -1,0 +1,75 @@
+
+Got it — you’re basically trying to build a “breaking-news aggregator” that not only captures the fact of the news but also pulls in raw media, commentary, and reporting from different channels.
+Here are categories + concrete sources/feeds you can look at:
+
+🔹 Social media & short-form content
+
+These tend to surface raw “on-the-ground” content before mainstream outlets:
+
+Twitter / X (already doing) → text + photos/videos from accounts or hashtags.
+
+TikTok (already doing) → short video reactions and first-person footage.
+
+Instagram → hashtags, location tags (often reposts of live events).
+
+Facebook → public posts, group feeds (good for local communities).
+
+YouTube → livestreams and breaking uploads; check “News” category, trending, or via YouTube API.
+
+Reddit → subreddits like r/news, r/worldnews, r/UkrainianConflict, r/liveupdates, etc.
+
+🔹 Traditional news + wires
+
+Reuters, AP, AFP → wire services are usually first among major outlets.
+
+Google News / Bing News APIs → cluster and deduplicate mainstream reporting.
+
+RSS feeds of specific outlets (NYT, BBC, CNN, Al Jazeera, regional newspapers).
+
+Press releases → PR Newswire, GlobeNewswire (sometimes the earliest official word).
+
+🔹 Blogs & community reporting
+
+Medium / Substack → commentary & analysis (not always instant).
+
+Niche blogs → defense blogs, local journalists, open-source investigation groups.
+
+WordPress / Blogspot → long tail; you can monitor via blog search engines.
+
+🔹 Official + government
+
+Government / municipal sites (press rooms, advisories, emergency services).
+
+Police / fire department Twitter accounts or feeds.
+
+NGOs / UN / WHO → for disaster, health, humanitarian news.
+
+🔹 Specialized media sources
+
+Live TV / streaming → CNN live, Sky News, Al Jazeera live streams.
+
+Radio + podcasts → some stations break stories quickly (NPR, BBC radio).
+
+Photo wire agencies → Getty Images breaking photo feeds, AP Images.
+
+🔹 Niche / OSINT-friendly sources
+
+FlightRadar24 / MarineTraffic → track incidents with planes/ships.
+
+Earthquake, weather, disaster feeds (USGS, EMSC, NOAA, GDACS).
+
+Security cameras / traffic cams (where legal and public).
+
+🔹 Aggregators / firehoses
+
+CrowdTangle (Meta tool for Facebook/Instagram, limited access).
+
+News API (paid service).
+
+GDELT Project → global event database with near-real-time updates.
+
+Meltwater / Dataminr / Factal (enterprise services for journalists).
+
+✅ Best strategy:
+
+Use social for raw media (fastest, but noisy + lots o

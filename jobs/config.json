@@ -1,0 +1,50 @@
+{
+    "search_post_count": 100,
+    "queries": {},
+    "completed_queries": {
+        "thenightscenery": {
+            "info": {
+                "url": "https://www.instagram.com/thenightscenery/reels/",
+                "posts": "590",
+                "following": "3",
+                "followers": "1.3M"
+            },
+            "type": "user_reels",
+            "post_saved": 590,
+            "saved_file": "user reels/thenightscenery.json",
+            "updated": "2025-04-24 11:39:04",
+            "status": "Completed"
+        },
+        "srilanka": {
+            "type": "search",
+            "status": "Runtime Error: $ is not a function",
+            "updated": "2025-09-28 23:28:04"
+        },
+        "mirissa": {
+            "type": "search",
+            "post_count": 105,
+            "updated": "2025-04-24 13:59:23",
+            "saved_file": "search/mirissa.json",
+            "status": "Completed"
+        },
+        "abyss_meditations": {
+            "type": "user_reels",
+            "status": "Runtime Error: invalid session id",
+            "updated": "2025-09-28 23:28:37"
+        }
+    },
+    "user_reels_path": "user reels/",
+    "follow_user_reels": true,
+    "search_path": "search/",
+    "username": "pmcart87@gmail.com",
+    "password": "Donegal1987*",
+    "headless": false,
+    "download_directory": "downloads/",
+    "disable_images": false,
+    "disable_videos": true,
+    "driver_executable_path": "",
+    "disable_saving_password": true,
+    "select_results": false,
+    "default_timeout": 10,
+    "log_file": "instagram.log"
+}

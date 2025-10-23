@@ -1,0 +1,87 @@
+2025-09-28 23:21:20 - INFO - Configuration loaded from config.json
+2025-09-28 23:21:20 - INFO - 📝 Logging initialized.
+2025-09-28 23:21:20 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:21:20 - INFO - 🎬 Disabling videos.
+2025-09-28 23:21:20 - ERROR - ❌ Specified chromedriver path does not exist: ./chromedriver.exe
+2025-09-28 23:21:20 - ERROR - 💥 Unexpected critical error in main: ChromeDriver not found at ./chromedriver.exe
+2025-09-28 23:22:14 - INFO - Configuration loaded from config.json
+2025-09-28 23:22:14 - INFO - 📝 Logging initialized.
+2025-09-28 23:22:14 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:22:14 - INFO - 🎬 Disabling videos.
+2025-09-28 23:22:14 - ERROR - ❌ Specified chromedriver path does not exist: ./chromedriver.exe
+2025-09-28 23:22:14 - ERROR - 💥 Unexpected critical error in main: ChromeDriver not found at ./chromedriver.exe
+2025-09-28 23:22:46 - INFO - Configuration loaded from config.json
+2025-09-28 23:22:46 - INFO - 📝 Logging initialized.
+2025-09-28 23:22:46 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:22:46 - INFO - 🎬 Disabling videos.
+2025-09-28 23:22:46 - INFO - 🤔 No driver_executable_path found in config. Will use PATH (chromedriver package).
+2025-09-28 23:22:46 - INFO - 🚀 Initializing Chrome WebDriver...
+2025-09-28 23:22:50 - INFO - ✅ WebDriver initialized successfully.
+2025-09-28 23:22:50 - INFO - 🌍 Navigating to: https://www.instagram.com/
+2025-09-28 23:22:56 - ERROR - ❌ Error during login interaction: element click intercepted: Element <button class=" _aswp _aswr _aswu _asw_ _asx2" type="submit">...</button> is not clickable at point (802, 288). Other element would receive the click: <div role="dialog" class="x1ja2u2z x1afcbsf x1a2a7pz x6ikm8r x10wlt62 x71s49j x6s0dn4 x78zum5 xdt5ytf xl56j7k x1n2onr6">...</div>
+  (Session info: chrome=140.0.7339.128)
+2025-09-28 23:22:56 - INFO - 📸 Screenshot saved to error_login_unexpected.png
+2025-09-28 23:22:56 - ERROR - ❌ Login failed. Cannot proceed with scraping. Exiting.
+2025-09-28 23:22:57 - INFO - ✅ WebDriver closed.
+2025-09-28 23:23:31 - INFO - Configuration loaded from config.json
+2025-09-28 23:23:31 - INFO - 📝 Logging initialized.
+2025-09-28 23:23:31 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:23:31 - INFO - 🎬 Disabling videos.
+2025-09-28 23:23:31 - INFO - 🤔 No driver_executable_path found in config. Will use PATH (chromedriver package).
+2025-09-28 23:23:31 - INFO - 🚀 Initializing Chrome WebDriver...
+2025-09-28 23:23:32 - INFO - ✅ WebDriver initialized successfully.
+2025-09-28 23:23:32 - INFO - 🌍 Navigating to: https://www.instagram.com/
+2025-09-28 23:23:38 - ERROR - ❌ Error during login interaction: element click intercepted: Element <button class=" _aswp _aswr _aswu _asw_ _asx2" type="submit">...</button> is not clickable at point (802, 288). Other element would receive the click: <div role="dialog" class="x1ja2u2z x1afcbsf x1a2a7pz x6ikm8r x10wlt62 x71s49j x6s0dn4 x78zum5 xdt5ytf xl56j7k x1n2onr6">...</div>
+  (Session info: chrome=140.0.7339.128)
+2025-09-28 23:23:38 - INFO - 📸 Screenshot saved to error_login_unexpected.png
+2025-09-28 23:23:38 - ERROR - ❌ Login failed. Cannot proceed with scraping. Exiting.
+2025-09-28 23:23:38 - INFO - ✅ WebDriver closed.
+2025-09-28 23:27:32 - INFO - Configuration loaded from config.json
+2025-09-28 23:27:32 - INFO - 📝 Logging initialized.
+2025-09-28 23:27:32 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:27:32 - INFO - 🎬 Disabling videos.
+2025-09-28 23:27:32 - INFO - 🤔 No driver_executable_path found in config. Will use PATH (chromedriver package).
+2025-09-28 23:27:32 - INFO - 🚀 Initializing Chrome WebDriver...
+2025-09-28 23:27:33 - INFO - ✅ WebDriver initialized successfully.
+2025-09-28 23:27:33 - INFO - 🌍 Navigating to: https://www.instagram.com/
+2025-09-28 23:27:39 - INFO - Starting search for query: srilanka
+2025-09-28 23:27:39 - INFO - 🌍 Navigating to: https://www.instagram.com/explore/search/keyword/?q=%23srilanka
+2025-09-28 23:27:43 - INFO - Scraping links for search query: srilanka
+2025-09-28 23:28:04 - ERROR - ❌ Error getting page source: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=140.0.7339.128)
+2025-09-28 23:28:04 - ERROR - ❌ A critical error occurred processing query 'srilanka' (search): $ is not a function
+2025-09-28 23:28:04 - INFO - Attempting to update configuration file: config.json
+2025-09-28 23:28:04 - INFO - ✅ Configuration file updated successfully.
+2025-09-28 23:28:04 - INFO - Starting Reels scrape for user: abyss_meditations
+2025-09-28 23:28:04 - INFO - 🌍 Navigating to: https://www.instagram.com/abyss_meditations/reels/
+2025-09-28 23:28:05 - ERROR - ❌ WebDriver Error navigating to https://www.instagram.com/abyss_meditations/reels/: invalid session id
+2025-09-28 23:28:05 - ERROR - ❌ Failed to navigate to user Reels page for abyss_meditations. Skipping.
+2025-09-28 23:28:05 - INFO - ✅ WebDriver closed.
+2025-09-28 23:28:12 - INFO - Configuration loaded from config.json
+2025-09-28 23:28:12 - INFO - 📝 Logging initialized.
+2025-09-28 23:28:12 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:28:12 - INFO - 🎬 Disabling videos.
+2025-09-28 23:28:12 - INFO - 🤔 No driver_executable_path found in config. Will use PATH (chromedriver package).
+2025-09-28 23:28:12 - INFO - 🚀 Initializing Chrome WebDriver...
+2025-09-28 23:28:13 - INFO - ✅ WebDriver initialized successfully.
+2025-09-28 23:28:13 - INFO - 🌍 Navigating to: https://www.instagram.com/
+2025-09-28 23:28:19 - INFO - Starting Reels scrape for user: abyss_meditations
+2025-09-28 23:28:19 - INFO - 🌍 Navigating to: https://www.instagram.com/abyss_meditations/reels/
+2025-09-28 23:28:22 - INFO - Fetching profile info for abyss_meditations
+2025-09-28 23:28:37 - ERROR - ❌ Error getting page source: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=140.0.7339.128)
+2025-09-28 23:28:37 - ERROR - ❌ A critical error occurred processing query 'abyss_meditations' (user_reels): invalid session id
+2025-09-28 23:28:37 - INFO - Attempting to update configuration file: config.json
+2025-09-28 23:28:37 - INFO - ✅ Configuration file updated successfully.
+2025-09-28 23:28:37 - INFO - ✅ WebDriver closed.
+2025-09-28 23:33:17 - INFO - Configuration loaded from config.json
+2025-09-28 23:33:18 - INFO - 📝 Logging initialized.
+2025-09-28 23:33:18 - INFO - ⚙️ Setting up WebDriver...
+2025-09-28 23:33:18 - INFO - 🎬 Disabling videos.
+2025-09-28 23:33:18 - INFO - 🤔 No driver_executable_path found in config. Will use PATH (chromedriver package).
+2025-09-28 23:33:18 - INFO - 🚀 Initializing Chrome WebDriver...
+2025-09-28 23:33:19 - INFO - ✅ WebDriver initialized successfully.
+2025-09-28 23:33:19 - INFO - 🌍 Navigating to: https://www.instagram.com/
+2025-09-28 23:33:25 - INFO - ✅ WebDriver closed.

@@ -1,0 +1,39 @@
+{
+  "name": "twitter-scraper",
+  "version": "1.0.0",
+  "description": "Playwright-based X/Twitter scraper with MongoDB Atlas storage",
+  "main": "scrape-multi-accounts.js",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "postinstall": "npx playwright install chromium",
+    "start": "node scrape-multi-accounts.js",
+    "start:headful": "HEADLESS=false node scrape-multi-accounts.js",
+    "scrape": "node scrape-multi-accounts.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "playwright",
+    "twitter",
+    "x",
+    "scraper",
+    "mongodb",
+    "atlas"
+  ],
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "chromedriver": "^140.0.4",
+    "dayjs": "^1.11.18",
+    "dotenv": "^17.2.2",
+    "fs-extra": "^11.3.2",
+    "mongodb": "^6.8.0",
+    "openai": "^5.23.2",
+    "p-limit": "^7.1.1",
+    "playwright": "^1.53.1",
+    "rss-parser": "^3.13.0",
+    "selenium-webdriver": "^4.35.0",
+    "undici": "^7.16.0"
+  }
+}
